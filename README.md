@@ -21,36 +21,6 @@ enable us to manage MySQL database with phpMyAdmin. We have made a class called 
 - Profile module
 - Cart module
 - Order module
-## Screenshots
-
-Login
-
-![Login](Screen%20Shorts/Registration%20module/login.png)
-
-Registration
-
-![Registration](Screen%20Shorts/Registration%20module/registration.png)
-
-Home Page
-
-![Home page](Screen%20Shorts/Home%20page%20module/home.png)
-
-Profile
-
-![Profile](Screen%20Shorts/Profile%20module/profile.png)
-
-Food Items Display
-
-![Food items display](Screen%20Shorts/Home%20page%20module/By%20Catogory/c1.png)
-
-Cart List
-![Cart list](Screen%20Shorts/Cart%20module/cart.png)
-
-Place Order
-
-![Place order](Screen%20Shorts/Order%20module/PlaceOrder.png)
-
-![Confirm order](Screen%20Shorts/Order%20module/confirmOrder.png)
 
 
 ## Requirements
